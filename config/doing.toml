@@ -11,10 +11,9 @@ icon = "./config/assets/icons/aperture.svg"
 text = "Working with images has always been one of my core interests, leading me to explore different computer vision tasks. I have completed several projects in areas such as Object Detection, Face Reconstruction, and Image Classification."
 
 [[doing]]
-title = "AI in Sports Analytics"
-icon = "./config/assets/icons/football.svg"
-# icon = "football"
-text = "Working with sports data combines my two passions: Sports, especially football, and AI. During my Bachelor thesis, I focused on extracting chance creation patterns in football teams, giving me the opportunity to delve into this exciting field."
+title = "Trustworthy AI"
+icon = "./config/assets/icons/lock-open.svg"
+text = "I am passionate about Trustworthy AI because it addresses the real-world challenges of deep learning models. My interests include tackling problems like out-of-domain generalization, adversarial attacks and defenses, and anomaly detection, especially in vision models."
 
 [[doing]]
 title = "Human Computer Interaction"
